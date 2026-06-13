@@ -19,9 +19,7 @@ footer .menu {
   align-items: center;
   margin: 10px 0;
 }
-footer .menu{
-    margin-right: 25px;
-}
+
 footer .social_icon li,
 footer .menu li {
   list-style: none;
@@ -39,7 +37,7 @@ footer .social_icon li a:hover {
 }
 
 footer .menu li a {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #ccc;
   margin: 0 10px;
   display: inline-block;
